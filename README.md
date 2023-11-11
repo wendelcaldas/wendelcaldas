@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Wendel Caldas 👋
 
 - 🔭 Eu trabalho com aplicações WEB.
-- 🌱 Estou cursando ensino superior em Análise e Desenvolvimento de Sistemas.
+- 🎓 Análise e Desenvolvimento de Sistemas.
 - 💬 Meu foco é em solução de problemas com criatividade.
 
 <div>
