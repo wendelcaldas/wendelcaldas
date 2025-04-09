@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Wendel Caldas 👋
 
-- 🔭 Eu trabalho com aplicações WEB.
+- 🔭 Eu trabalho com aplicações WEB e MOBILE.
 - 🎓 Análise e Desenvolvimento de Sistemas.
 - 💬 Meu foco é em solução de problemas com criatividade.
 
